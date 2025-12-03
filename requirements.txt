@@ -1,0 +1,18 @@
+# Distributed System Simulation - Requirements
+# No external dependencies required - uses Python standard library only
+
+# Python version required: 3.7+
+
+# Standard library modules used:
+# - socket (TCP/IP communication)
+# - threading (concurrent processing)
+# - queue (priority queues)
+# - time (timing and delays)
+# - random (service time simulation, failures)
+# - logging (system logging)
+# - json (message serialization)
+# - subprocess (process management)
+# - signal (signal handling)
+# - dataclasses (data structures)
+# - typing (type hints)
+# - enum (enumerations)
